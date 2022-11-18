@@ -1,0 +1,14 @@
+{
+  "name": "spring83-keygen",
+  "version": "1.0.0",
+  "description": "Generates Spring '83 keypairs.",
+  "main": "index.js",
+  "author": "Dan Q",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ed25519": "0.0.5"
+  }
+}
