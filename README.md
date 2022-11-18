@@ -43,3 +43,7 @@ Secret:  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Public:  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx79ba68810d1783e0923
 ........................................
 ```
+
+## Announcement
+
+- https://danq.me/2022/11/18/spring83-keygen/
